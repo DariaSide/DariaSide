@@ -1,19 +1,19 @@
-## Hi there 👋
+# Hello everyone!
+My name is Daria, and I'm a Data Scientist and model from Saint-Petersberg
+
+## Hard-skills:
+- Machine Learning
+- Deep Learning
+- NLP & LLMs
+- Computer Vision
+- Data Analysis & Statistics
+- Python
+  
+### Studing organizations:
 
 https://github.com/ITMO-AI-engineering
 
 https://github.com/DS-self-education
-<!--
-**DariaSide/DariaSide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects I have worked on:
+- Trading Chaos — Python project for quantitative analysis and trading strategy research
