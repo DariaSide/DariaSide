@@ -17,3 +17,4 @@ https://github.com/DS-self-education
 
 ### Projects I have worked on:
 - Trading Chaos — Python project for quantitative analysis and trading strategy research
+- RAG System for Technical Q&A
